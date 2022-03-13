@@ -1,0 +1,15 @@
+#!/bin/bash
+
+#Author: Shafayet Ahmad Kanon
+#Date Created: 13-03-2022
+#Last Modified: 13-03-2022
+
+#Description:
+#This is my first Bash Script in this Course
+
+#Usage: 
+#This is a simple code to print a Statemtetn
+
+echo "learing bash scripting"
+
+exit 0
